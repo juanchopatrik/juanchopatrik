@@ -27,6 +27,7 @@ const aboutMe = {
       },
       databases: ["MongoDB", "mySQL", "SQLServer", "Postgres],
       mobile: ["IOS"]
+      devOps: ["AWS", "Docker🐳", "Nginx", "GitLab"],
    },
    currentOccupation: ["last year student, open for job opportunities"],
 
@@ -43,7 +44,7 @@ const aboutMe = {
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/juan-dario-silva-rodriguez-78031666/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/juan-dario-silva-rodriguez-78031666/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@juanchopatrik-blue?style=flat&logo=linkedin"></a>
    <a href="mailto:juandhdsr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-juandhdsr@gmail.com-blue?style=flat&logo=gmail"></a>
    
  </p>
